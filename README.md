@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Userp31415926
 - 👀 I’m interested in cyka_blyat
-- 🌱 I’m currently learning computer scoence
+- 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on [TBD]
 - 📫 How to reach me [TBD]
 
